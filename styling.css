@@ -1,4 +1,5 @@
 body {
+  border:20px;
   background-color:blue;
   font-family: Georgia, "Times New Roman",
           Times, serif;
@@ -6,7 +7,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: black;
     text-align: center;
   font-family: Georgia, "Times New Roman",
           Times, serif;
