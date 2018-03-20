@@ -1,8 +1,8 @@
 body {
-  background-color: yellow;
+  background-color: rgb(104,104,255);
 }
 h1 {
-    color: rgb(104,104,255);
+    color: white;
     text-align: center;
   font-family: Georgia, "Times New Roman",
           Times, serif;
