@@ -1,14 +1,13 @@
 body {
-  border:20px;
-  background-color:blue;
-  font-family: Georgia, "Times New Roman",
-          Times, serif;
-  color:red;
+  background-color: blue;
 }
-
 h1 {
     color: black;
     text-align: center;
   font-family: Georgia, "Times New Roman",
           Times, serif;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
 }
