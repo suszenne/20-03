@@ -1,17 +1,20 @@
 
 body {
-  background-color: blue;
+  background-color: rgb(204;204;255);
+  font-family: Georgia, "Times New Roman",
+          Times, serif;
+  color: rgb(255;10;102);
 }
 
 h1 {
     color: white;
     text-align: center;
+  font-family: Georgia, "Times New Roman",
+          Times, serif;
 }
 
-p {
-  border:3px solid black;
-  margin:150px;
-  padding:20px;
-  color:red;
-  background-color:yellow;
+header {
+  position: absolute;
+  border:3em;
+  margin:10em;
 }
