@@ -2,6 +2,12 @@
 body {
   background-color:blue;
 }
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
 p {
   border:3px solid black;
   margin:150px;
