@@ -11,9 +11,11 @@ p {
     position: absolute;
       text-align: center;
   border:3px solid black;
+  margin:150px;
+  padding:20px;
   font-family: "Times New Roman",
           Times, serif;
-    font-size: 10px;
+    font-size: 25px;
   background-color:white;
 color:black;
   display: inline;
@@ -22,4 +24,5 @@ h2 {
   color:white;
   font-family:Georgia, "Times New Roman",
           Times, serif;
+  font-size:28px;
 }
