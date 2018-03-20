@@ -1,6 +1,10 @@
+<html>
+  <head>
+
 <link rel="stylesheet" href="styling.css">
+  
+<title>Welcome to this ARTventure</title>
 
-<h1>Welcome to this ARTventure</h1>
-
-dnasklcnlkòvesnfd-
-
+</head>
+ <body>
+  </html>
