@@ -1,10 +1,9 @@
 <html>
-  <head>
 <link rel="stylesheet" href="styling.css">
   
-<title>Welcome to this ARTventure</title>
+<h1>Welcome to this ARTventure</h1>
 
-</head>
+
  <body>
   <h1>susy</h1>
   dajknòcnjkòcnaskòjnjkòcnjkòdscsdcnòzslòjkxnkòz
