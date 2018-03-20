@@ -9,8 +9,8 @@ h1 {
 }
 p {
       text-align: center;
-  borde250px solid black;
-  margin:150px;
+  borde:100px solid black;
+  margin:3000px;
   padding:20px;
   font-family: Georgia, "Times New Roman",
           Times, serif;
