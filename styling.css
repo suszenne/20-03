@@ -9,12 +9,12 @@ h1 {
 }
 p {
       text-align: center;
-  border:10px solid black;
-  margin:30px;
+  border:5 px solid black;
+  margin:100px;
   padding:20px;
   font-family: Georgia, "Times New Roman",
           Times, serif;
-    font-size: 25px;
+    font-size: 15px;
   background-color:white;
 color:black;
   display: inline;
