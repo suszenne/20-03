@@ -1,4 +1,3 @@
-
 body {
   background-color:blue;
   font-family: Georgia, "Times New Roman",
@@ -11,10 +10,4 @@ h1 {
     text-align: center;
   font-family: Georgia, "Times New Roman",
           Times, serif;
-}
-
-header {
-  position: absolute;
-  border:3em;
-  margin:10em;
 }
