@@ -9,15 +9,15 @@ h1 {
 }
 p {
       text-align: center;
-  border:5 px solid black;
-  margin:100px;
+  border: 10px solid black;
+  margin:200px;
   padding:20px;
   font-family: Georgia, "Times New Roman",
           Times, serif;
     font-size: 15px;
   background-color:white;
 color:black;
-  display: inline;
+  display: block;;
 }
 h2 {
   color:white;
