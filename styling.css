@@ -1,4 +1,7 @@
 
+body {
+  background-color:blue
+}
 p {
   border:3px solid black;
   margin:150px;
