@@ -8,6 +8,9 @@ h1 {
           Times, serif;
 }
 p {
-    font-family: verdana;
+    text-align: center;
+  border:3px;
+  font-family: Georgia, "Times New Roman",
+          Times, serif;
     font-size: 20px;
 }
