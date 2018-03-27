@@ -13,6 +13,7 @@ Just discovered that "html" it's not a TheSims cheat code.</h2>
   
 <p>Welcome to this world of acjdskhnpbvkclxcdckjakqolmslfpldsnkzmxoaso </p>
   <p class="placeholder">In this page you can('t) find <a href="#NOSENSE">nosense</a> things</p>
+  <img src="https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif">
   <p class="paragraph">It's all about anything</p>
   <p class="placeholder">Random is the prohibited word</p>
 
