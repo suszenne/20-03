@@ -2,9 +2,9 @@ body {
   background-image: url("https://discourse-cdn.freetls.fastly.net/boingboing/uploads/default/original/3X/e/7/e7fb5e3a88e4f35f56d219658667386395150d95.gif");
 }
 h1 {
-    border: 8px solid black;
-  margin:200px;
-  padding:10px;
+    border: 10px solid black;
+  margin:230px;
+  padding:15px;
   color: black;
   background-color:light-blue;
     text-align: center;
@@ -32,5 +32,5 @@ h2 {
   background-color:pink;
   font-family:Georgia, "Times New Roman",
           Times, serif;
-  font-size:10px;
+  font-size:5px;
 }
