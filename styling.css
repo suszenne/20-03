@@ -33,7 +33,7 @@ p {
       text-align: right;
     border: 5px solid black;
     margin: 10px;
-    margin-left: 190px;
+    margin-left: 390px;
   padding:10px;
   font-family: Georgia, "Times New Roman",
           Times, serif;
@@ -52,5 +52,5 @@ color:black;
 }
 
 .paragraph {
-  margin-left: 470px;
+  margin-left: 690px;
 }
