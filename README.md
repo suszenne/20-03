@@ -17,6 +17,7 @@ Just discovered that "html" it's not a TheSims cheat code.</h2>
   <p class="placeholder">Random is the prohibited word</p>
 
 <h2 id="NOSENSE">NOSENSE</h2>
+<img src="https://media2.giphy.com/media/XhT868oxljs88/giphy.gif">
   
   </body>
   </html>
