@@ -11,8 +11,7 @@ h1 {
   color: black;
   background-color:cornflowerblue;
     text-align: center;
-  font-family: Impact, Charcoal, sans-serif;
-  
+  font-family: Lovelo;
 }
 
 h2 {
@@ -21,7 +20,7 @@ h2 {
     padding: 30px
   color:black;
   background-color:pink;
-  font-family:Impact, Charcoal, sans-serif;
+  font-family:Lovelo;
   font-size:22px;
   font-weight: 500;
   text-align:left;
@@ -33,7 +32,7 @@ p {
     margin: 10px;
     margin-left: 390px;
   padding:10px;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family: Lovelo;
     font-size: 25px;
   background-color:white;
 color:black;
