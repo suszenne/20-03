@@ -1,7 +1,9 @@
 <html>
 <link rel="stylesheet" href="styling.css">
 <body>
+<img src="https://media.giphy.com/media/3oFyCZm9jPjlzsAwXS/giphy.gif" width="100" height="100" style="float:left; margin: 10px">
 <h1>Welcome to this ARTventure</h1>
+<img src="https://media.giphy.com/media/3oFyCZm9jPjlzsAwXS/giphy.gif" width="100" height="100" style="float:right; margin: 10px">
   
 <h2>Please don't stop reading this text 'cause it will probably be the most useless reading of your day.
 
@@ -13,8 +15,10 @@ Just discovered that "html" it's not a TheSims cheat code.</h2>
   
 <p>Welcome to this world of acjdskhnpbvkclxcdckjakqolmslfpldsnkzmxoaso </p>
   <p class="placeholder">In this page you can('t) find <a href="#NOSENSE">nosense</a> things</p>
-  <img src="https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif" width="200" height="200" style="float:left; margin: 10px">  >
+  <img src="https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif" width="200" height="200" style="float:left; margin: 10px">  
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="350" height="350" style="float:right; margin:10px" >
   <p class="paragraph">It's all about anything</p>
+  <img src="https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif" width="200" height="200" style="float:right; margin: 10px">
   <p class="placer">Random is the prohibited word</p>
 
 <h2 id="NOSENSE">NOSENSE</h2>
