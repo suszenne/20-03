@@ -13,12 +13,12 @@ Just discovered that "html" it's not a TheSims cheat code.</h2>
   
 <p>Welcome to this world of acjdskhnpbvkclxcdckjakqolmslfpldsnkzmxoaso </p>
   <p class="placeholder">In this page you can('t) find <a href="#NOSENSE">nosense</a> things</p>
-  <img src="https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif" width="60" height="60"  >
+  <img src="https://media.giphy.com/media/zhmIHStBa2ezu/giphy.gif" width="300" height="300"  >
   <p class="paragraph">It's all about anything</p>
   <p class="placeholder">Random is the prohibited word</p>
 
 <h2 id="NOSENSE">NOSENSE</h2>
-<img src="https://media2.giphy.com/media/XhT868oxljs88/giphy.gif" width="80" height="80" >
+<img src="https://media2.giphy.com/media/XhT868oxljs88/giphy.gif" width="350" height="350" >
   
   </body>
   </html>
