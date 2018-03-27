@@ -1,8 +1,11 @@
 body {
   background-image: url("https://discourse-cdn.freetls.fastly.net/boingboing/uploads/default/original/3X/e/7/e7fb5e3a88e4f35f56d219658667386395150d95.gif");
 }
-h1 {
-    border: 10px solid black;
+h1 {    
+  margin-bottom: 28px;
+  font-weight: 800;
+  line-height: 1.75;
+  border: 10px solid black;
   margin:230px;
   padding:15px;
   color: black;
@@ -12,6 +15,20 @@ h1 {
           Times, serif;
   
 }
+
+h2 {
+  border: 3px solid black;
+    margin: 10px;
+    padding: 10px
+  color:black;
+  background-color:pink;
+  font-family:Georgia, "Times New Roman",
+          Times, serif;
+  font-size:5px;
+  font-weight: 530;
+  text-align:left;
+}
+
 p {
       text-align: center;
   border: 5px solid black;
@@ -23,15 +40,4 @@ p {
   background-color:white;
 color:black;
   display: block;
-}
-h2 {
-  border: 1px solid black;
-  margin:200px;
-  padding:10px;
-  color:black;
-  background-color:pink;
-  font-family:Georgia, "Times New Roman",
-          Times, serif;
-  font-size:5px;
-  text-align:left;
 }
