@@ -1,16 +1,19 @@
 body {
-  background-color: pink;
+  background-image: url("https://www.google.it/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F3a%2Fda%2F93%2F3ada9386f11b308a40da0b637067db13.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F245657354649494451%2F&docid=YWdIk-iEj_xPjM&tbnid=KpWKFcaUDJprjM%3A&vet=12ahUKEwiCn7mzhozaAhWHyKQKHVRtAv44ZBAzKAkwCXoECAAQCg..i&w=640&h=640&bih=735&biw=1517&q=gif%20psychedelich&ved=2ahUKEwiCn7mzhozaAhWHyKQKHVRtAv44ZBAzKAkwCXoECAAQCg&iact=mrc&uact=8");
 }
 h1 {
-    color: black;
+    border: 8px solid black;
+  margin:200px;
+  padding:10px;
+  color: black;
     text-align: center;
   font-family: Georgia, "Times New Roman",
           Times, serif;
-  background-image:background-image: url("https://www.google.it/imgres?imgurl=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Fm9dfRlySfO1Ta%2Fsource.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Floading-icon-squares-m9dfRlySfO1Ta&docid=w0r2VD0gTF1FYM&tbnid=J7cPKAaINDobLM%3A&vet=10ahUKEwjegseLhYzaAhVF3aQKHaeOCJUQMwhDKA4wDg..i&w=1000&h=1000&bih=735&biw=1517&q=gif%20squares&ved=0ahUKEwjegseLhYzaAhVF3aQKHaeOCJUQMwhDKA4wDg&iact=mrc&uact=8");
+  
 }
 p {
       text-align: center;
-  border: 8px solid black;
+  border: 5px solid black;
   margin:200px;
   padding:10px;
   font-family: Georgia, "Times New Roman",
@@ -21,8 +24,11 @@ color:black;
   display: block;
 }
 h2 {
-  color:white;
+  border: 4px solid black;
+  margin:200px;
+  padding:10px;
+  color:black;
   font-family:Georgia, "Times New Roman",
           Times, serif;
-  font-size:28px;
+  font-size:22px;
 }
