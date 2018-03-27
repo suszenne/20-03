@@ -49,7 +49,8 @@ color:black;
 }
 
 .paragraph {
-  margin-left: 690px;
+  margin-left: 640px;
+  margin-right: 190px;
 }
 
 .placer {
@@ -58,3 +59,11 @@ color:black;
     margin-right: 450px;
   margin-left: 260px;
 }
+
+#NOSENSE {
+  margin-bottom: 28px;
+  font-weight: 500px;
+  color: black;
+  background-color:cornflowerblue;
+    text-align: center;
+  font-family:Verdana,sans-serif;
