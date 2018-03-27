@@ -51,3 +51,10 @@ color:black;
 .paragraph {
   margin-left: 690px;
 }
+
+.placer {
+  text-align: left;
+    margin: 10px;
+    margin-right: 450px;
+  margin-left: 260px;
+}
