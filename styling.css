@@ -11,7 +11,7 @@ h1 {
   color: black;
   background-color:cornflowerblue;
     text-align: center;
-  font-family:Lovelo;
+  font-family:Helvetica;
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
     padding: 30px
   color:black;
   background-color:pink;
-  font-family:Titilium;
+  font-family:Helvetica;
   font-size:22px;
   font-weight: 500;
   text-align:left;
@@ -32,7 +32,7 @@ p {
     margin: 10px;
     margin-left: 390px;
   padding:10px;
-  font-family:Tititlium;
+  font-family:Helvetica;
     font-size: 25px;
   background-color:white;
 color:black;
