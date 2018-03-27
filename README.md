@@ -12,7 +12,7 @@ I don't even know how I've created it.
 Just discovered that "html" it's not a TheSims cheat code.</h2>
   
 <p>Welcome to this world of acjdskhnpbvkclxcdckjakqolmslfpldsnkzmxoaso </p>
-  <p class="placeholder"> <a href="#NOSENSE">In this page you can('t) find nosense things</a></p>
+  <p class="placeholder">In this page you can('t) find <a href="#NOSENSE">nosense</a> things</p>
   <p class="paragraph">It's all about anything</p>
   <p class="placeholder">Random is the prohibited word</p>
 
