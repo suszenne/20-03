@@ -19,7 +19,7 @@ h2 {
     margin: 10px;
     padding: 25px;
   color:black;
-  background-color:pink;
+  background-color:white;
   font-family:Verdana,sans-serif;
   font-size:22px;
   font-weight: 500;
@@ -46,7 +46,7 @@ color:black;
   text-align: left;
     margin: 10px;
     margin-right: 450px;
-  background-color:#ff00ff;
+  background-color:#e6e6fa;
 }
 
 .paragraph {
