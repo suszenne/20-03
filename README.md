@@ -3,7 +3,7 @@
 <body>
 <img src="https://media.giphy.com/media/10kxE34bJPaUO4/giphy.gif" width="100" height="100" style="float:left; margin: 10px">
   <img src="https://media.giphy.com/media/10kxE34bJPaUO4/giphy.gif" width="100" height="100" style="float:right; margin: 10px">
-<h1>Welcome to this ARTventure</h1>
+<h1>Welcome to this ART venture</h1>
   
 <h2> ! Please don't stop reading this text 'cause it will probably be the most useless reading of your day.
 
