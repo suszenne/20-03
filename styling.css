@@ -35,7 +35,7 @@ p {
   font-family:Verdana,sans-serif;
   font-weight:bold;
     font-size: 15px;
-  background-color:white;
+  background-color:#ffc0cb;
 color:black;
   display: block;
 }
@@ -46,11 +46,13 @@ color:black;
   text-align: left;
     margin: 10px;
     margin-right: 450px;
+  background-color:#ff00ff;
 }
 
 .paragraph {
   margin-left: 610px;
   margin-right: 220px;
+  background-color:#48d1cc;
 }
 
 .placer {
@@ -58,6 +60,7 @@ color:black;
     margin: 10px;
     margin-right: 450px;
   margin-left: 260px;
+  background-color:#d8bfd8;
 }
 
 #NOSENSE {
